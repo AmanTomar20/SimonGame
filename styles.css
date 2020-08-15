@@ -30,14 +30,14 @@ body {
     height: 8rem;
     width: 8rem;
   }
+  .container {
+    margin-top: 20%;
+  }
 }
 
 @media (min-width: 768px) { 
   .container{
     width: 60%;
-  }
-  .container {
-    margin-top: 20%;
   }
 }
 
