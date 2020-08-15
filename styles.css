@@ -36,6 +36,9 @@ body {
   .container{
     width: 60%;
   }
+  .container {
+    margin-top: 20%;
+  }
 }
 
 @media (min-width: 1200px) { 
